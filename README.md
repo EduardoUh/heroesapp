@@ -2,7 +2,7 @@
 
 ## **Descripción general:**
 
-Aplicación web de tipo SPA hecha para prácticar __React__ y en la que se listan los héroes de Marvel y DC.
+Aplicación web básica de tipo SPA hecha para prácticar __React__ y en la que se listan los héroes de Marvel y DC.
 
 ## **Funcionalidades incluidas:**
 
@@ -12,6 +12,9 @@ Aplicación web de tipo SPA hecha para prácticar __React__ y en la que se lista
 * Buscador de héroes.
 * Rutas públicas y privadas.
 * Cerrar sesión.
+
+## **Ver demo**
+[Heroes SPA](https://dc-marvel-heroes-app.netlify.app/ "Heroes SPA")
 
 ## **Pasos para correr el servidor:**
 
@@ -42,6 +45,9 @@ A SPA made to practice __React__ and in which Marvel and DC heroes are listed.
 * Search tab.
 * Public and private routes.
 * Log out.
+
+## **See live site**
+[Heroes SPA](https://dc-marvel-heroes-app.netlify.app/ "Heroes SPA")
 
 ## **Steps to run the server:**
 
